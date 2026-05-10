@@ -81,12 +81,14 @@ The dashboard includes churn segmentation by:
 - Purchase frequency
 - Country
 - Risk category
-Executive Summary:
-![Executive Summary Preview](Dashboard & some screenshots/Executive_summary.png)
-Segment Analysis:
-![Segment Analysis Preview](Dashboard & some screenshots/segment_analysis.png)
-Risk Analysis:
-![Risk Analysis Preview](Dashboard & some screenshots/risk_analysis.png)
+  
+-Executive Summary:
+![Executive Summary Preview](Dashboard%20%26%20some%20screenshots/Executive_summary.png)
+-Segment Analysis:
+![Segment Analysis Preview](Dashboard%20%26%20some%20screenshots/segment_analysis.png)
+-Risk Analysis:
+![Risk Analysis Preview](Dashboard%20%26%20some%20screenshots/risk_analysis.png)
+
 ## Key Findings
 
 - Overall churn rate: 46.82%
